@@ -28,14 +28,11 @@ This project was created to strengthen my understanding of **Core Java, Object-O
 
 - **Java**
 - **Object-Oriented Programming (OOP)**
-- **File Handling**
 - **Exception Handling**
 - **ArrayList**
 - **Packages**
 - **Scanner**
-- **FileReader / FileWriter**
-- **BufferedReader**
-
+  
 ---
 
 ## 📂 Project Structure
